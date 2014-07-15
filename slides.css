@@ -68,7 +68,7 @@ ul#navButtons li a{
   opacity: .8;
   -webkit-transition: opacity .3s;
   transition: opacity .3s;
-  background: url(img/navBtns.png) no-repeat 0 7px;
+  background: url(http://cartodb.github.io/odyssey.js/visualizations/loomstate/img/navBtns.png) no-repeat 0 7px;
 
 }
 
@@ -78,7 +78,7 @@ ul#navButtons li a:hover {
 }
 
 ul#navButtons li a.next {
-    background: url(img/navBtns.png) no-repeat -38px 7px;
+    background: url(http://cartodb.github.io/odyssey.js/visualizations/loomstate/img/navBtns.png) no-repeat -38px 7px;
 
 
 }
